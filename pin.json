@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"id":"GUIM-FAFE-SUL"},
+      "geometry": {
+        "coordinates": [
+          -8.422674404919178,
+          41.54963382450484
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
